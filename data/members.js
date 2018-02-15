@@ -622,6 +622,7 @@ window.members = [
     },
     {
         name: "Simon Palmer",
+        country: "GB",
         years: [2011],
         times: ["88:59"]
     },

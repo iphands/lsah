@@ -5,6 +5,7 @@ window.members = [
         times: ["88:55"]
     },
     {
+        numberHack: "1.1",
         name: "Ian Hands",
         years: [2011, 2015],
         times: ["88:55", "89:36"]

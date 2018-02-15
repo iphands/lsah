@@ -17,7 +17,10 @@
                 "<td class=\"d-none d-sm-block\">" + (item.notes ? item.notes : '') + "</td>" +
                 "</tr>"
         );
-        number += 1;
+
+        if (!item.numberHack) {
+            number += 1;
+        }
     });
     $('#membersTable tbody').append(items.join());
     $('[data-toggle="tooltip"]').tooltip();

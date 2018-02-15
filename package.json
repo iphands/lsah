@@ -26,6 +26,7 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-scrolling-nav.git"
     },
     "dependencies": {
+        "angular": "^1.6.7",
         "bootstrap": "4.0.0",
         "flag-icon-css": "^2.9.0",
         "gulp-concat": "^2.6.1",

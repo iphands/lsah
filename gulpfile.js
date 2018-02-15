@@ -26,6 +26,9 @@ gulp.task('vendor', function() {
     gulp.src(['node_modules/flag-icon-css/css/flag-icon.min.css']).pipe(gulp.dest('./vendor/flag-icon-css'));
     gulp.src(['node_modules/flag-icon-css/flags/4x3/*']).pipe(gulp.dest('./vendor/flags/4x3'));
 
+    // Angular
+    gulp.src(['node_modules/angular/angular.min.js']).pipe(gulp.dest('./vendor/'));
+
     // Bootstrap
     gulp.src([
         './node_modules/bootstrap/dist/**/*',

@@ -1,4 +1,4 @@
-/*global jQuery, window*/
+/*global jQuery, window, angular*/
 "use strict";
 (function ($) {
     var items = [];
@@ -25,3 +25,8 @@
     $('#membersTable tbody').append(items.join());
     $('[data-toggle="tooltip"]').tooltip();
 }(jQuery));
+
+(function () {
+    var app = angular.module('LSAH', []);
+    app.controller('EmailAppCtrl', function EmailAppCtrl() {});
+}());

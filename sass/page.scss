@@ -13,3 +13,19 @@ header.bg-lsah {
   float: right;
   padding-left: 1.5em;
 }
+
+#store {
+  img.item {
+    width: 100%;
+  }
+
+  label {
+    float:right;
+  }
+
+  input {
+    display: inline-block;
+    margin: 1rem;
+    float: right;
+  }
+}

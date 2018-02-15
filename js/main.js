@@ -14,7 +14,7 @@
                 "<td>" + item.name + "</td>" +
                 "<td>" + item.years.join(', ') + "</td>" +
                 "<td>" + item.times.join(', ') + "</td>" +
-                "<td>" + (item.notes ? item.notes : '') + "</td>" +
+                "<td class=\"d-none d-sm-block\">" + (item.notes ? item.notes : '') + "</td>" +
                 "</tr>"
         );
         number += 1;

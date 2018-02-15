@@ -24,7 +24,7 @@ gulp.task('watch', function () {
 gulp.task('vendor', function() {
     // Flag Icon
     gulp.src(['node_modules/flag-icon-css/css/flag-icon.min.css']).pipe(gulp.dest('./vendor/flag-icon-css'));
-    gulp.src(['node_modules/flag-icon-css/flags/1x1/*']).pipe(gulp.dest('./vendor/flags/1x1'));
+    gulp.src(['node_modules/flag-icon-css/flags/4x3/*']).pipe(gulp.dest('./vendor/flags/4x3'));
 
     // Bootstrap
     gulp.src([

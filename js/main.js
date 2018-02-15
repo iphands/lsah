@@ -9,7 +9,7 @@
             "<tr>" +
                 "<td>" + (item.numberHack || number) + "</td>" +
                 "<td>" +
-                "<span data-toggle=\"tooltip\" data-placement=\"top\" title=\"" + window.countries[country] + "\" class=\"flag-icon flag-icon-" + country + " flag-icon-squared\"></span>" +
+                "<span data-toggle=\"tooltip\" data-placement=\"top\" title=\"" + window.countries[country] + "\" class=\"flag-icon flag-icon-" + country + "\"></span>" +
                 "</td>" +
                 "<td>" + item.name + "</td>" +
                 "<td>" + item.years.join(', ') + "</td>" +

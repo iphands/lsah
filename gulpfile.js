@@ -48,7 +48,7 @@ gulp.task('vendor', function() {
 });
 
 // Default task
-gulp.task('default', ['vendor']);
+gulp.task('default', ['vendor', 'sass']);
 
 // Configure the browserSync task
 gulp.task('browserSync', function() {

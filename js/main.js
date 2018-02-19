@@ -1,4 +1,4 @@
-/*global jQuery, window, angular*/
+/*global window, angular*/
 "use strict";
 (function () {
     var app = angular.module('LSAH', []);

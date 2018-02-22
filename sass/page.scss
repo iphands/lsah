@@ -15,7 +15,11 @@ header.bg-lsah {
 }
 
 #store {
-  img {
+  img.item {
+    height: 50%;
+  }
+
+  .new-merch img {
     height: 50%;
   }
 

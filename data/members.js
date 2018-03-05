@@ -742,16 +742,16 @@ window.members = [
         times: ["90:00"]
     },
     {
-        name: "Adrian Wikeley",
-        country: "GB",
-        years: [2015],
-        times: ["89:23"]
-    },
-    {
         name: "Marcello Napolitano",
         country: "IE",
         years: [2015],
         times: ["93:48"]
+    },
+    {
+        name: "Adrian Wikeley",
+        country: "GB",
+        years: [2015],
+        times: ["89:23"]
     },
     {
         name: "Andrew Wikeley",
@@ -793,8 +793,9 @@ window.members = [
     },
     {
         name: "Andrew Clarkson",
+        country: "GB",
         years: [2015],
-        times: ["89:03"]
+        times: ["89:04"]
     },
     {
         name: "Will Danicek",

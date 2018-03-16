@@ -29,6 +29,8 @@ gulp.task('vendor', function() {
     // Angular
     gulp.src(['node_modules/angular/angular.min.js']).pipe(gulp.dest('./vendor/'));
 
+    gulp.src(['node_modules/is-in-viewport/lib/isInViewport.min.js']).pipe(gulp.dest('./vendor/'));
+
     // Bootstrap
     gulp.src([
         './node_modules/bootstrap/dist/**/*',

@@ -1,24 +1,52 @@
-/*global window, angular*/
+/*global document, window, angular*/
 "use strict";
-(function () {
+(function (jq) {
     var app = angular.module('LSAH', []);
+
     app.controller('EmailAppCtrl', function EmailAppCtrl() {});
 
     app.controller('TableListCrtl', function TableListCrtl($scope) {
-        var number = 1;
-        window.members.forEach(function (item) {
-            var country = item.country ? item.country.toLowerCase() : 'us';
+        var once = true;
 
-            item.count = item.numberHack || number;
-            item.country = country;
-            item.countryFull = window.countries[country];
-            item.years = item.years.join(', ');
-            item.times = item.times.join(', ');
-            if (!item.numberHack) {
-                number += 1;
+        function init() {
+            var number = 1;
+
+            window.members.forEach(function (item) {
+                var country = item.country ? item.country.toLowerCase() : 'us';
+
+                item.count = item.numberHack || number;
+                item.country = country;
+                item.countryFull = window.countries[country];
+                item.years = item.years.join(', ');
+                item.times = item.times.join(', ');
+
+                if (!item.numberHack) {
+                    number += 1;
+                }
+            });
+
+            $scope.members = window.members;
+        }
+
+        document.addEventListener('scroll', function () {
+            if (once && jq('#members').is(':in-viewport')) {
+                once = false;
+                init();
+                $scope.$digest();
             }
         });
-
-        $scope.members = window.members;
     });
-}());
+}(window.jQuery));
+
+(function (jq) {
+    document.addEventListener('scroll', function () {
+        var images = jq('img[data-src]:in-viewport');
+        if (images.length) {
+            images.attr('src', function (i) {
+                var src = images[i].getAttribute('data-src');
+                images[i].removeAttribute('data-src');
+                return src;
+            });
+        }
+    });
+}(window.jQuery));

@@ -824,5 +824,11 @@ window.members = [
         country: "DK",
         years: [2015],
         times: ["89:11"]
+    },
+    {
+        name: "Jean-philippe Battu",
+        country: "fr",
+        years: [2003, 2007, 2015],
+        times: ["90:25", "89:58", "95:30"]
     }
-]
+];

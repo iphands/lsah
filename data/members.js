@@ -824,5 +824,12 @@ window.members = [
         country: "fr",
         years: [2003, 2007, 2015],
         times: ["90:25", "89:58", "95:30"]
+    },
+    {
+        name: "Luis Antonio Rivera Huelves",
+        country: "es",
+        years: [2015],
+        times: ["89:23"],
+        notes: "Nº H098"
     }
 ];

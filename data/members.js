@@ -754,12 +754,6 @@ window.members = [
         times: ["89:23"]
     },
     {
-        name: "Andrew Wikeley",
-        country: "GB",
-        years: [2015],
-        times: ["89:23"]
-    },
-    {
         name: "Vernon M. Smith",
         years: [2015],
         times: ["89:12"]

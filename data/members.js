@@ -831,5 +831,11 @@ window.members = [
         years: [2015],
         times: ["89:23"],
         notes: "Nº H098"
+    },
+    {
+        name: "Albrecht Beck",
+        country: "de",
+        years: [2015],
+        times: ["89:59"]
     }
 ];

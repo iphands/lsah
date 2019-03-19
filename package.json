@@ -25,18 +25,21 @@
         "type": "git",
         "url": "https://github.com/BlackrockDigital/startbootstrap-scrolling-nav.git"
     },
+    "scripts": {
+        "start": "gulp vendor && gulp dev"
+    },
     "dependencies": {
-        "angular": "^1.6.7",
+        "angular": "^1.7.8",
         "bootstrap": "4.0.0",
         "flag-icon-css": "^2.9.0",
         "gulp-concat": "^2.6.1",
-        "gulp-sass": "^3.1.0",
-        "is-in-viewport": "^3.0.0",
+        "gulp-sass": "^3.2.1",
+        "is-in-viewport": "^3.0.4",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1"
     },
     "devDependencies": {
-        "browser-sync": "2.23.6",
+        "browser-sync": "^2.26.3",
         "gulp": "^3.9.1"
     }
 }

@@ -1,2 +1,2 @@
 #!/bin/bash
-git pull && npm i && gulp vendor && gulp
+git pull && npm ci && gulp vendor && gulp

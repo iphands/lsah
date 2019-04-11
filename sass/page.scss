@@ -1,5 +1,9 @@
 header.bg-lsah {
   background-color: #8e0800;
+  a {
+    color: white;
+    text-decoration: underline;
+  }
 }
 
 .pull-left {
@@ -25,6 +29,11 @@ header.bg-lsah {
 
   .new-merch img {
     height: 50%;
+  }
+
+  .new-merch.upper {
+    max-height: 10em;
+    margin-bottom: 2em;
   }
 
   label {

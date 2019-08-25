@@ -841,7 +841,7 @@ window.members = [
     },
     {
         name: "Martin Stefan",
-        country: "uk",
+        country: "GB",
         years: [2019],
         times: ["89:09"]
     },

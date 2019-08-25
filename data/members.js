@@ -734,8 +734,8 @@ window.members = [
     },
     {
         name: "Cynthia Van Der Wiele",
-        years: [2015],
-        times: ["89:48"]
+        years: [2015, 2019],
+        times: ["89:48", "89:34"]
     },
     {
         name: "Robert Heath",
@@ -847,7 +847,6 @@ window.members = [
     },
     {
         name: "Joseph Ray",
-        country: "us",
         years: [2019],
         times: ["89:01"],
         notes: "Rider number L205",
@@ -855,35 +854,35 @@ window.members = [
     },
     {
         name: "Stacy Kline",
-        country: "us",
         years: [2019],
         times: ["89:15"],
         notes: "My rider number for 2019 is J223! My husband Greg and I were delighted to meet Adrian's son Ian and his family at PBP this year!"
     },
     {
         name: "Mark Thomas",
-        country: "us",
         years: [2019],
         times: ["89:25"],
         notes: "Thanks for mentorship"
     },
     {
         name: "Nigel Greene",
-        country: "us",
         years: [2019],
         times: ["89:24"],
         notes: "Great to see you en route. Happy to join the club!",
     },
     {
         name: "Mitch Ishihara",
-        country: "us",
         years: [2019],
         times: ["89:25"]
     },
     {
         name: "Misha Heller",
-        country: "us",
         years: [2019],
         times: ["89:04"]
+    },
+    {
+        name: "Chet Buell",
+        years: [2019],
+        times: ["89:34"]
     }
 ];

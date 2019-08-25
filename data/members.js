@@ -892,5 +892,11 @@ window.members = [
         country: "au",
         years: [2019],
         times: ["89:28"],
+    },
+    {
+        name: "Alain Collongues",
+        country: "fr",
+        years: [1971],
+        times: ["88:57"]
     }
 ];

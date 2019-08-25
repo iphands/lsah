@@ -499,6 +499,7 @@ window.members = [
     {
         name: "Luke Heller",
         years: [2015, 2019],
+        notes: "EMFF",
         times: ["89:36", "89:04"]
     },
     {
@@ -878,6 +879,7 @@ window.members = [
     {
         name: "Misha Heller",
         years: [2019],
+        notes: "EMFF",
         times: ["89:04"]
     },
     {

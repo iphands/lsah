@@ -12,8 +12,9 @@ window.members = [
     },
     {
         name: "John \"Cap'n\" Ende",
-        years: [2007, 2015],
-        times: ["89:00", "89:36"]
+        years: [2007, 2015, 2019],
+        notes: "Yeah baby!",
+        times: ["89:00", "89:36", "89:25"]
     },
     {
         name: "Alan Johnson",
@@ -837,5 +838,46 @@ window.members = [
         country: "de",
         years: [2015],
         times: ["89:59"]
+    },
+    {
+        name: "Martin Stefan",
+        country: "uk",
+        years: [2019],
+        times: ["89:09"]
+    },
+    {
+        name: "Joseph Ray",
+        country: "us",
+        years: [2019],
+        times: ["89:01"],
+        notes: "Rider number L205",
+        token: "4990974d150d0de5e6e15a1454fe6b0f"
+    },
+    {
+        name: "Stacy Kline",
+        country: "us",
+        years: [2019],
+        times: ["89:15"],
+        notes: "My rider number for 2019 is J223! My husband Greg and I were delighted to meet Adrian's son Ian and his family at PBP this year!"
+    },
+    {
+        name: "Mark Thomas",
+        country: "us",
+        years: [2019],
+        times: ["89:25"],
+        notes: "Thanks for mentorship"
+    },
+    {
+        name: "Nigel Greene",
+        country: "us",
+        years: [2019],
+        times: ["89:24"],
+        notes: "Great to see you en route. Happy to join the club!",
+    },
+    {
+        name: "Mitch Ishihara",
+        country: "us",
+        years: [2019],
+        times: ["89:25"]
     }
 ];

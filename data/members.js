@@ -498,8 +498,8 @@ window.members = [
     },
     {
         name: "Luke Heller",
-        years: [2015],
-        times: ["89:36"]
+        years: [2015, 2019],
+        times: ["89:36", "89:04"]
     },
     {
         name: "Rob Tulloh",
@@ -879,5 +879,11 @@ window.members = [
         country: "us",
         years: [2019],
         times: ["89:25"]
+    },
+    {
+        name: "Misha Heller",
+        country: "us",
+        years: [2019],
+        times: ["89:04"]
     }
 ];

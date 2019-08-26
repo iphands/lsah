@@ -900,12 +900,6 @@ window.members = [
         times: ["88:57"]
     },
     {
-        name: "Jean Francois TORRELLE",
-        country: "fr",
-        years: [2011],
-        times: ["84:40"]
-    },
-    {
         name: "Sheni Jiwa",
         country: "gb",
         years: [2019],
@@ -916,5 +910,17 @@ window.members = [
         name: "Sean Lerner",
         years: [2019],
         times: ["89:42"]
-    }
+    },
+    {
+        name: "Maggie Kim Hong GOH",
+        country: "my",
+        years: [2019],
+        times: ["89:11"],
+        notes: "I have journey the 1226 km the true Audax way, with no support no dropbag.  I did it with all the randonnees around me!"
+    },
+    {
+        name: "Sean Lerner",
+        years: [2019],
+        times: ["89:42"]
+    },
 ];

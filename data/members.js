@@ -898,5 +898,23 @@ window.members = [
         country: "fr",
         years: [1971],
         times: ["88:57"]
+    },
+    {
+        name: "Jean Francois TORRELLE",
+        country: "fr",
+        years: [2011],
+        times: ["84:40"]
+    },
+    {
+        name: "Sheni Jiwa",
+        country: "gb",
+        years: [2019],
+        times: ["89:20"],
+        notes: "Rider number K118"
+    },
+    {
+        name: "Sean Lerner",
+        years: [2019],
+        times: ["89:42"]
     }
 ];

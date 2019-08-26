@@ -784,8 +784,8 @@ window.members = [
     },
     {
         name: "William Watts",
-        years: [2015],
-        times: ["89:04"]
+        years: [2015, 2019],
+        times: ["89:04", "89:21"]
     },
     {
         name: "Andrew Clarkson",
@@ -923,4 +923,10 @@ window.members = [
         years: [2019],
         times: ["89:42"]
     },
+    {
+        name: "Abhinav Kumar Singh",
+        country: "in",
+        years: [2019],
+        times: ["89:42"]
+    }
 ];

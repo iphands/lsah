@@ -785,6 +785,7 @@ window.members = [
     {
         name: "William Watts",
         years: [2015, 2019],
+        notes: "Je suis recicivist!",
         times: ["89:04", "89:21"]
     },
     {

@@ -785,7 +785,7 @@ window.members = [
     {
         name: "William Watts",
         years: [2015, 2019],
-        notes: "Je suis recicivist!",
+        notes: "Je suis récidiviste!",
         times: ["89:04", "89:21"]
     },
     {
@@ -920,14 +920,54 @@ window.members = [
         notes: "I have journey the 1226 km the true Audax way, with no support no dropbag.  I did it with all the randonnees around me!"
     },
     {
-        name: "Sean Lerner",
-        years: [2019],
-        times: ["89:42"]
-    },
-    {
         name: "Abhinav Kumar Singh",
         country: "in",
         years: [2019],
         times: ["89:42"]
+    },
+    {
+        name: "Wouter De Ruyck",
+        country: "be",
+        years: [2019],
+        times: ["89:18"]
+    },
+    {
+        name: "Brad Dean",
+        years: [2019],
+        times: ["89:04"]
+    },
+    {
+        name: "Alex Brey",
+        years: [2019],
+        times: ["89:29"]
+    },
+    {
+        name: "Brian Burke",
+        years: [2019],
+        times: ["89:04"]
+    },
+    {
+        name: "Zapara Yevhen",
+        country: "ua",
+        years: [2019],
+        times: ["89:27"]
+    },
+    {
+        name: "Pieter Marius",
+        country: "be",
+        years: [2019],
+        times: ["89:17"]
+    },
+    {
+        name: "Gary DelNero",
+        years: [2019],
+        times: ["89:23"]
+    },
+    {
+        name: "Daniel Ridings",
+        country: "se",
+        years: [2019],
+        times: ["89:07"],
+        notes: "H192",
     }
 ];

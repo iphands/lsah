@@ -969,5 +969,10 @@ window.members = [
         years: [2019],
         times: ["89:07"],
         notes: "H192",
+    },
+    {
+        name: "Ken Moss",
+        years: [2019],
+        times: ["88:56"]
     }
 ];

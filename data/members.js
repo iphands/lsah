@@ -980,5 +980,16 @@ window.members = [
         country: "th",
         years: [2019],
         times: ["89:03"]
+    },
+    {
+        name: "Ajit Kulkarni",
+        country: "in",
+        years: [2019],
+        times: ["88:58"]
+    },
+    {
+        name: "Christine Newman",
+        years: [2019],
+        times: ["89:06"]
     }
 ];

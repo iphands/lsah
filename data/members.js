@@ -991,5 +991,23 @@ window.members = [
         name: "Christine Newman",
         years: [2019],
         times: ["89:06"]
+    },
+    {
+        name: "Graziano Foschi",
+        country: "it",
+        years: [2019],
+        times: ["89:14"]
+    },
+    {
+        name: "Kelly Smith",
+        country: "us",
+        years: [2019],
+        times: ["89:04"]
+    },
+    {
+        name: "Brad Owen",
+        country: "uk",
+        years: [2019],
+        times: ["89:04"]
     }
 ];

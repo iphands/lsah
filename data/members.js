@@ -1006,7 +1006,7 @@ window.members = [
     },
     {
         name: "Brad Owen",
-        country: "uk",
+        country: "gb",
         years: [2019],
         times: ["89:04"]
     }

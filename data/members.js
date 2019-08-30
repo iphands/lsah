@@ -1009,5 +1009,24 @@ window.members = [
         country: "gb",
         years: [2019],
         times: ["89:04"]
+    },
+    {
+        name: "Brad Owen",
+        country: "uk",
+        years: [2019],
+        times: ["89:04"],
+    },
+    {
+        name: "Oleksiy Yarov",
+        country: "ua",
+        years: [2015, 2019],
+        times: ["89:06", "89:30"],
+    },
+    {
+        name: "Flavio Oliveira",
+        country: "br",
+        years: [2019],
+        times: ["89:59"],
+        notes: "Number J259. Relate in http://tripedal.net/8-segundos/"
     }
 ];

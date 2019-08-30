@@ -1011,12 +1011,6 @@ window.members = [
         times: ["89:04"]
     },
     {
-        name: "Brad Owen",
-        country: "uk",
-        years: [2019],
-        times: ["89:04"],
-    },
-    {
         name: "Oleksiy Yarov",
         country: "ua",
         years: [2015, 2019],

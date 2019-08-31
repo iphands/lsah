@@ -478,8 +478,8 @@ window.members = [
     },
     {
         name: "Jeff Newberry",
-        years: [2015],
-        times: ["89:08"]
+        years: [2015, 2019],
+        times: ["89:08", "89:43"]
     },
     {
         name: "Jenny Oh Hatfield",
@@ -1022,5 +1022,12 @@ window.members = [
         years: [2019],
         times: ["89:59"],
         notes: "Number J259. Relate in http://tripedal.net/8-segundos/"
+    },
+    {
+        name: "Jim Cope",
+        country: "gb",
+        years: [2019],
+        times: ["89:04"],
+        notes: "Audax Club Hackney"
     }
 ];

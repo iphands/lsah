@@ -1029,5 +1029,22 @@ window.members = [
         years: [2019],
         times: ["89:04"],
         notes: "Audax Club Hackney"
+    },
+    {
+        name: "Christopher Heg",
+        years: [2019],
+        times: ["89:11"]
+    },
+    {
+        name: "Alex Brown",
+        country: "gb",
+        years: [2019],
+        times: ["89:30"]
+    },
+    {
+        name: "Matt Vining",
+        years: [2019],
+        times: ["89:02"],
+        notes: "s'accrocher U082",
     }
 ];

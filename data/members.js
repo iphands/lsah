@@ -1046,5 +1046,31 @@ window.members = [
         years: [2019],
         times: ["89:02"],
         notes: "s'accrocher U082",
+    },
+    {
+        name: "Jose Jimenez",
+        country: "es",
+        years: [2019],
+        times: ["89:41"],
+        notes: "I would like to join the societe Adrian Hands as I completely agree with the cycling style \"enjoy every ride to the fullest\". My ride Paris Brest Paris 2019 in 89 h 41 m fully acomplish such smart goal."
+    },
+    {
+        name: "Lydia Trott",
+        country: "us",
+        years: [2019],
+        times: ["89:03:33"],
+        notes: "Along with Mojo (Moe) the stuffed llama ; )"
+    },
+    {
+        name: "Chris Horsfield",
+        country: "au",
+        years: [2019],
+        times: ["89:34"]
+    },
+    {
+        name: "Claire Francis",
+        country: "gb",
+        years: [2019],
+        times: ["88:57"]
     }
 ];

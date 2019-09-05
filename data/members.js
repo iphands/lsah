@@ -1076,7 +1076,19 @@ window.members = [
     {
         name: "Sally Theofanides",
         country: "au",
-        years: [2015],
-        times: ["89:14"]
+        years: [2015, 2019],
+        times: ["89:14", "89:45"]
+    },
+    {
+        name: "Rupert Martin-Clark",
+        country: "gb",
+        years: [2019],
+        times: ["88:59"],
+        notes: "Recumbent rider F217 Third attemt successful ..last two unsuccesful",
+    },
+    {
+        name: "John Nguyen",
+        years: [2019],
+        times: ["88:55"]
     }
 ];

@@ -1084,11 +1084,22 @@ window.members = [
         country: "gb",
         years: [2019],
         times: ["88:59"],
-        notes: "Recumbent rider F217 Third attemt successful ..last two unsuccesful",
+        notes: "Recumbent rider F217 Third attemt successful... last two unsuccesful",
     },
     {
         name: "John Nguyen",
         years: [2019],
         times: ["88:55"]
+    },
+    {
+        name: "Christopher Pratt",
+        years: [2019],
+        times: ["88:56"]
+    },
+    {
+        name: "Mark Behning",
+        country: "us",
+        years: [2019],
+        times: ["88:57"]
     }
 ];

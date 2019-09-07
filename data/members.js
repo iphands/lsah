@@ -1101,5 +1101,10 @@ window.members = [
         country: "us",
         years: [2019],
         times: ["88:57"]
+    },
+    {
+        name: "Bryan Yuan",
+        years: [2019],
+        times: ["89:30"]
     }
 ];

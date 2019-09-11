@@ -51,6 +51,9 @@
             $scope.members = window.members;
             console.log($scope.members.length);
             $scope.countries = lodash.sortBy(lodash.values(countries), 'count').reverse();
+            $scope.countriesTotal = lodash.reduce($scope.countries, function (sum, n) {
+                return sum + n.count;
+            }, 0);
         }
 
         function prepopulateMembers() {

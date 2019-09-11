@@ -17,7 +17,7 @@ window.countries = {
     nl: 'Netherlands',
     nz: 'New Zeland',
     pr: 'Puerto Rico',
-    se: 'Sweeden',
+    se: 'Sweden',
     th: 'Thailand',
     ua: 'Ukraine',
     us: 'United States of America',

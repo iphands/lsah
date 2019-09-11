@@ -166,7 +166,14 @@
                   </tr>
                   <tr>
                     <th></th>
-                    <th><select><option val="all">all</option></th>
+                    <th>
+                      <select ng-model="search.country">
+                        <option value="">all</option>
+                        <option ng-repeat="country in countries | orderBy:'code'" value="{{:: country.code}}">
+                          {{:: country.code}}
+                        </option>
+                      </select>
+                    </th>
                     <th><input type="text" size="10" ng-model="search.name"></th>
                     <th>
                       <select ng-model="search.years">

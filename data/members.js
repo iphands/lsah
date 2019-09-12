@@ -164,9 +164,9 @@ window.members = [
     },
     {
         name: "Bill Russell",
-        years: [2011, 2015],
-        times: ["89:17", "89:31"],
-        notes: "'15 velomobile"
+        years: [2011, 2015, 2019],
+        times: ["89:17", "89:31", "89:20"],
+        notes: "'15 '19 velomobile"
     },
     {
         name: "Veronica Tunucci",

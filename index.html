@@ -185,13 +185,21 @@
                   </tr>
                 </thead>
                 <tbody>
-                  <tr ng-repeat="member in members | filter:search:strict">
+                  <tr ng-repeat="member in members | filter:search:strict as filtered">
                     <td>{{:: member.count}}</td>
                     <td><span data-toggle="tooltip" data-placement="top" title="{{:: member.countryFull }}" class="flag-icon flag-icon-{{:: member.country }}"></span></td>
                     <td>{{:: member.name }}</td>
                     <td>{{:: member.years }}</td>
                     <td>{{:: member.times }}</td>
                     <td class="d-none d-sm-block">{{:: member.notes }}</td>
+                  </tr>
+                  <tr>
+                    <td>Total:</td>
+                    <td>{{ filtered.length }}</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td class="d-none d-sm-block"></td>
                   </tr>
                 </tbody>
               </table>

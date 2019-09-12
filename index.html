@@ -168,19 +168,19 @@
                     <th></th>
                     <th>
                       <select ng-model="search.country">
-                        <option value="">all</option>
+                        <option value="">*</option>
                         <option ng-repeat="country in countries | orderBy:'code'" value="{{:: country.code}}">
                           {{:: country.code}}
                         </option>
                       </select>
                     </th>
-                    <th><input type="text" size="10" ng-model="search.name"></th>
+                    <th><input type="text" style="width: 6em" ng-model="search.name"></th>
                     <th>
                       <select ng-model="search.years">
-                        <option value="">all</option>
+                        <option value="">*</option>
                         <option ng-repeat="year in years">{{:: year}}</option>
                     </th>
-                    <th><input type="text" size="5" ng-model="search.times"></th>
+                    <th><input type="text" size="5" style="width: 3em" ng-model="search.times"></th>
                     <th></th>
                   </tr>
                 </thead>

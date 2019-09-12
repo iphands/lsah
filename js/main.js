@@ -24,7 +24,7 @@
             var   number = 1;
             const countries = {};
 
-            genYears(window.members);
+            $scope.years = genYears(window.members);
 
             window.members.forEach(function (item) {
                 var country = item.country ? item.country.toLowerCase() : 'us';

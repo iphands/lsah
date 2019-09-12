@@ -1058,7 +1058,7 @@ window.members = [
         name: "Lydia Trott",
         country: "us",
         years: [2019],
-        times: ["89:03:33"],
+        times: ["89:03"],
         notes: "Along with Mojo (Moe) the stuffed llama ; )"
     },
     {

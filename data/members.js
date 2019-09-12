@@ -1117,5 +1117,10 @@ window.members = [
         country: "es",
         years: [2019],
         times: ["89:39"]
+    },
+    {
+        name: "Steven K Trott Jr",
+        years: [2019],
+        times: ["89:03"]
     }
 ];

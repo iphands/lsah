@@ -8,20 +8,23 @@
     app.controller('TableListCrtl', function TableListCrtl($scope) {
         var once = true;
 
-        function genYears(start) {
-            const years = [];
-            for (let i = start; i < 2019 + 4; i += 4) {
-                years.push(i);
-            }
+        function genYears(members) {
+            let years = [];
+            members.forEach(function (m) {
+                years = lodash.concat(years, m.years);
+            });
 
-            $scope.years = years;
+            // uniq | sort
+            years = [...new Set(years)].sort();
+
+            return years;
         }
 
         function init() {
             var   number = 1;
             const countries = {};
 
-            genYears(1971);
+            genYears(window.members);
 
             window.members.forEach(function (item) {
                 var country = item.country ? item.country.toLowerCase() : 'us';

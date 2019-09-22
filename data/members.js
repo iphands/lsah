@@ -1127,5 +1127,10 @@ window.members = [
           name: "Jon Beckham",
           years: [2019],
           times: ["88:58"]
+    },
+    {
+          name: "John French",
+          years: [2019],
+          times: ["89:09"]
     }
 ];

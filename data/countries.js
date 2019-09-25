@@ -7,6 +7,7 @@ window.countries = {
     de: 'Germany',
     dk: 'Denmark',
     es: 'Spain',
+    fi: 'Finland',
     fr: 'France',
     gb: 'Great Britain',
     ie: 'Ireland',

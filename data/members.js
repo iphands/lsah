@@ -1138,5 +1138,11 @@ window.members = [
         years: [2019],
         times: ["88:56"],
         notes: "Badge J246"
+    },
+    {
+        name: "Mikko Vulli",
+        years: [2019],
+        country: "FI",
+        times: ["89:25"]
     }
 ];

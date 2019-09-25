@@ -1132,5 +1132,11 @@ window.members = [
           name: "John French",
           years: [2019],
           times: ["89:09"]
+    },
+    {
+        name: "Gregory Goebel",
+        years: [2019],
+        times: ["88:56"],
+        notes: "Badge J246"
     }
 ];

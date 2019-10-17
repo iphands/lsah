@@ -1144,5 +1144,11 @@ window.members = [
         years: [2019],
         country: "FI",
         times: ["89:25"]
+    },
+    {
+        name: "Joel Lawrence",
+        years: [2019],
+        times: ["89:26:16"],
+        notes: "Now in good hands"
     }
 ];

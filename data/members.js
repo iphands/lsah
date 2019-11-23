@@ -1159,7 +1159,7 @@ window.members = [
     },
     {
         name: "Jason Burns",
-        country: "uk",
+        country: "GB",
         years: [2019],
         times: ["89:06"]
     }

@@ -1156,5 +1156,11 @@ window.members = [
         country: "de",
         years: [2019],
         times: ["89:01"]
+    },
+    {
+        name: "Jason Burns",
+        country: "uk",
+        years: [2019],
+        times: ["89:06"]
     }
 ];

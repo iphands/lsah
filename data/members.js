@@ -1162,5 +1162,12 @@ window.members = [
         country: "GB",
         years: [2019],
         times: ["89:06"]
+    },
+    {
+        name: "Bob Donaldson",
+        country: "uk",
+        years: [2019],
+        times: ["89:09"],
+        notes: "odetocycling.home.blog/2019/11/03/team-vcj-does-paris-brest-paris/"
     }
 ];

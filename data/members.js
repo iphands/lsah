@@ -662,8 +662,8 @@ window.members = [
     },
     {
         name: "Narayan Krishnamoorthy",
-        years: [2015],
-        times: ["89:00"]
+        years: [2015, 2019],
+        times: ["89:00", "89:00"]
     },
     {
         name: "Nigel Winter",

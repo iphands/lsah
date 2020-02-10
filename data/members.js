@@ -1169,5 +1169,11 @@ window.members = [
         years: [2019],
         times: ["89:09"],
         notes: "odetocycling.home.blog/2019/11/03/team-vcj-does-paris-brest-paris/"
+    },
+    {
+        name: "Fredrik Holmqvist",
+        country: "se",
+        years: [2019],
+        times: ["89:13"]
     }
 ];

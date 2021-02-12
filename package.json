@@ -35,7 +35,7 @@
         "gulp-concat": "^2.6.1",
         "gulp-sass": "^3.2.1",
         "is-in-viewport": "^3.0.4",
-        "jquery": "3.3.1",
+        "jquery": "3.5.0",
         "jquery.easing": "^1.4.1"
     },
     "devDependencies": {

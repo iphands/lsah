@@ -1187,5 +1187,11 @@ window.members = [
         country: "us",
         years: [2019],
         times: ["89:34"],
+    },
+    {
+	name: "William A Monsen",
+	country: "us",
+	years: [2019],
+	times: ["89:37"],
     }
 ];

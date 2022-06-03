@@ -1084,7 +1084,7 @@ window.members = [
         country: "gb",
         years: [2019],
         times: ["88:59"],
-        notes: "Recumbent rider F217 Third attemt successful... last two unsuccesful",
+        notes: "Recumbent rider F217 Third attempt successful... last two unsuccesful",
     },
     {
         name: "John Nguyen",

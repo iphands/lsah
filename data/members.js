@@ -851,8 +851,7 @@ window.members = [
         name: "Joseph Ray",
         years: [2019],
         times: ["89:01"],
-        notes: "Rider number L205",
-        token: "4990974d150d0de5e6e15a1454fe6b0f"
+        notes: "Rider number L205"
     },
     {
         name: "Stacy Kline",
@@ -1052,7 +1051,7 @@ window.members = [
         country: "es",
         years: [2019],
         times: ["89:41"],
-        notes: "I would like to join the societe Adrian Hands as I completely agree with the cycling style \"enjoy every ride to the fullest\". My ride Paris Brest Paris 2019 in 89 h 41 m fully acomplish such smart goal."
+        notes: "I would like to join the societe Adrian Hands as I completely agree with the cycling style \"enjoy every ride to the fullest\". My ride Paris Brest Paris 2019 in 89 h 41 m fully accomplish such smart goal."
     },
     {
         name: "Lydia Trott",
@@ -1084,7 +1083,7 @@ window.members = [
         country: "gb",
         years: [2019],
         times: ["88:59"],
-        notes: "Recumbent rider F217 Third attempt successful... last two unsuccesful",
+        notes: "Recumbent rider F217 Third attempt successful... last two unsuccessful",
     },
     {
         name: "John Nguyen",

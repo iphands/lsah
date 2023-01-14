@@ -1199,5 +1199,11 @@ window.members = [
 	years: [2003],
 	times: ["89:25"],
         notes: "Unfortunately, a few minutes too fast in 2007"
+    },
+    {
+	name: "David Dyer",
+	country: "gb",
+	years: [2019],
+	times: ["93:18"],
     }
 ];

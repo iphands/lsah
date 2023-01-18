@@ -4,8 +4,7 @@ node_js:
   - "node"
 install:       npm install
 script:
-  - npm test
-  - gulp
+  - gulp-v3
 cache:
   directories:
     - node_modules

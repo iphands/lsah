@@ -29,13 +29,13 @@
         "start": "gulp vendor && gulp dev"
     },
     "dependencies": {
-        "angular": "^1.7.8",
-        "bootstrap": "4.0.0",
+        "angular": "^1.8.2",
+        "bootstrap": "^4.6.2",
         "flag-icon-css": "^2.9.0",
         "gulp-concat": "^2.6.1",
-        "gulp-sass": "^3.2.1",
+        "gulp-sass": "^5.1.0",
         "is-in-viewport": "^3.0.4",
-        "jquery": "3.3.1",
+        "jquery": "^3.6.3",
         "jquery.easing": "^1.4.1"
     },
     "devDependencies": {
@@ -45,6 +45,7 @@
         "eslint-plugin-import": "^2.27.5",
         "eslint-plugin-n": "^15.6.1",
         "eslint-plugin-promise": "^6.1.1",
-        "gulp": "^3.9.1"
+        "gulp-v3": "^3.12.1",
+        "sass": "^1.57.1"
     }
 }

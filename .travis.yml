@@ -1,3 +1,4 @@
+dist: focal
 sudo: false
 language: node_js
 node_js:

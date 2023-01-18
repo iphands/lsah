@@ -1123,14 +1123,14 @@ window.members = [
         times: ["89:03"]
     },
     {
-          name: "Jon Beckham",
-          years: [2019],
-          times: ["88:58"]
+        name: "Jon Beckham",
+        years: [2019],
+        times: ["88:58"]
     },
     {
-          name: "John French",
-          years: [2019],
-          times: ["89:09"]
+        name: "John French",
+        years: [2019],
+        times: ["89:09"]
     },
     {
         name: "Gregory Goebel",
@@ -1188,54 +1188,54 @@ window.members = [
         times: ["89:34"],
     },
     {
-	name: "William A Monsen",
-	country: "us",
-	years: [2019],
-	times: ["89:37"],
+        name: "William A Monsen",
+        country: "us",
+        years: [2019],
+        times: ["89:37"],
     },
     {
-	name: "Bob Harber",
-	country: "gb",
-	years: [2003],
-	times: ["89:25"],
+        name: "Bob Harber",
+        country: "gb",
+        years: [2003],
+        times: ["89:25"],
         notes: "Unfortunately, a few minutes too fast in 2007"
     },
     {
-	name: "David Dyer",
-	country: "gb",
-	years: [2019],
-	times: ["93:18"]
+        name: "David Dyer",
+        country: "gb",
+        years: [2019],
+        times: ["93:18"]
     },
     {
-	name: "Michael Menicanin",
-	country: "ca",
-	years: [2019],
-      times: ["89:01"]
+        name: "Michael Menicanin",
+        country: "ca",
+        years: [2019],
+        times: ["89:01"]
     },
     {
-	name: "Erin Marchak",
-	country: "ca",
-	years: [2019],
-	times: ["89:07"]
+        name: "Erin Marchak",
+        country: "ca",
+        years: [2019],
+        times: ["89:07"]
     },
     {
-	name: "Carey Chappelle",
-	country: "ca",
-	years: [2007],
-	times: ["89:06"]
+        name: "Carey Chappelle",
+        country: "ca",
+        years: [2007],
+        times: ["89:06"]
     },
     {
-	name: "André Labanowski Júnior",
-	country: "br",
-	years: [2019],
-	times: ["89:59"],
-	notes: "Rider number G020"
+        name: "André Labanowski Júnior",
+        country: "br",
+        years: [2019],
+        times: ["89:59"],
+        notes: "Rider number G020"
     },
     {
-	name: "Evandro Otto Dos Reis",
-	country: "br",
-	years: [2015],
-	times: ["89:40"],
-	notes: "K070"
+        name: "Evandro Otto Dos Reis",
+        country: "br",
+        years: [2015],
+        times: ["89:40"],
+        notes: "K070"
     }
 ];

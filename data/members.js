@@ -1204,6 +1204,38 @@ window.members = [
 	name: "David Dyer",
 	country: "gb",
 	years: [2019],
-	times: ["93:18"],
+	times: ["93:18"]
+    },
+    {
+	name: "Michael Menicanin",
+	country: "ca",
+	years: [2019],
+      times: ["89:01"]
+    },
+    {
+	name: "Erin Marchak",
+	country: "ca",
+	years: [2019],
+	times: ["89:07"]
+    },
+    {
+	name: "Carey Chappelle",
+	country: "ca",
+	years: [2007],
+	times: ["89:06"]
+    },
+    {
+	name: "André Labanowski Júnior",
+	country: "br",
+	years: [2019],
+	times: ["89:59"],
+	notes: "Rider number G020"
+    },
+    {
+	name: "Evandro Otto Dos Reis",
+	country: "br",
+	years: [2015],
+	times: ["89:40"],
+	notes: "K070"
     }
 ];

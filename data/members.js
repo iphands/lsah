@@ -1248,13 +1248,14 @@ window.members = [
     name: "Jon Pablo Gjekstad",
     country: "no",
     years: [2023],
-    times: ["89:01:38"],
+    times: ["89:01"],
+    notes: "#1 Norge!"
   },
   {
     name: "Søren Flensted Möller",
     country: "dk",
     years: [2015],
-    times: ["89:38:46"],
+    times: ["89:38"],
     notes: "F027 Forgot to ad my startnumber",
   },
   {

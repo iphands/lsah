@@ -1243,5 +1243,60 @@ window.members = [
     country: "ua",
     years: [2019],
     times: ["89:19"],
+  },
+  {
+    name: "Jon Pablo Gjekstad",
+    country: "no",
+    years: [2023],
+    times: ["89:01:38"],
+  },
+  {
+    name: "Søren Flensted Möller",
+    country: "dk",
+    years: [2015],
+    times: ["89:38:46"],
+    notes: "F027 Forgot to ad my startnumber",
+  },
+  {
+    name: "Lucy Bufton",
+    country: "gb",
+    years: [2023],
+    times: ["89:47"],
+  },
+  {
+    name: "Jan Olov Jansson",
+    country: "se",
+    years: [2007],
+    times: ["89:21"],
+  },
+  {
+    name: "Sampsa Puikkonen",
+    country: "fi",
+    years: [2023],
+    times: ["89:16"],
+  },
+  {
+    name: "Otso Lonka",
+    country: "fi",
+    years: [2023],
+    times: ["89:03"],
+  },
+  {
+    name: "Antti Hämäläinen",
+    country: "fi",
+    years: [2023],
+    times: ["89:16"],
+  },
+  {
+    name: "Mika Härmä",
+    country: "fi",
+    years: [2023],
+    times: ["89:24"],
+  },
+  {
+    name: "Charlie Martin",
+    country: "us",
+    years: [2023],
+    times: ["89:03"],
   }
 ];

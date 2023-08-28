@@ -1301,12 +1301,6 @@ window.members = [
     times: ["89:03"],
   },
   {
-    name: "Sakari Bragge",
-    country: "fi",
-    years: [2023],
-    times: ["85:54"]
-  },
-  {
     name: "Jose Blanco",
     country: "us",
     years: [2023],
@@ -1329,5 +1323,5 @@ window.members = [
     country: "fi",
     years: [2023],
     times: ["89:24"],
-  },
+  }
 ];

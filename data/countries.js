@@ -16,6 +16,7 @@ window.countries = {
     lk: "Sri Lanka",
     my: "Mylasia",
     nl: "Netherlands",
+    no: "Norway",
     nz: "New Zeland",
     pr: "Puerto Rico",
     se: "Sweden",

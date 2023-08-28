@@ -12,9 +12,9 @@ window.members = [
   },
   {
     name: "John \"Cap'n\" Ende",
-    years: [2007, 2015, 2019],
+    years: [2007, 2015, 2019, 2023],
     notes: "Yeah baby!",
-    times: ["89:00", "89:36", "89:25"]
+    times: ["89:00", "89:36", "89:25", "89:00"]
   },
   {
     name: "Alan Johnson",
@@ -1299,5 +1299,35 @@ window.members = [
     country: "us",
     years: [2023],
     times: ["89:03"],
-  }
+  },
+  {
+    name: "Sakari Bragge",
+    country: "fi",
+    years: [2023],
+    times: ["85:54"]
+  },
+  {
+    name: "Jose Blanco",
+    country: "us",
+    years: [2023],
+    times: ["89:23"],
+  },
+  {
+    name: "Greg Kline",
+    country: "us",
+    years: [2023],
+    times: ["89:12"],
+  },
+  {
+    name: "Ken Lanteigne",
+    country: "us",
+    years: [2023],
+    times: ["88:59"],
+  },
+  {
+    name: "Tatu Edelmann",
+    country: "fi",
+    years: [2023],
+    times: ["89:24"],
+  },
 ];

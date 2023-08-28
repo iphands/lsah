@@ -7,8 +7,8 @@ window.members = [
   {
     numberHack: "1.1",
     name: "Ian Hands",
-    years: [2011, 2015],
-    times: ["88:55", "89:36"]
+    years: [2011, 2015, 2023],
+    times: ["88:55", "89:36", "89:03"]
   },
   {
     name: "John \"Cap'n\" Ende",
@@ -498,9 +498,9 @@ window.members = [
   },
   {
     name: "Luke Heller",
-    years: [2015, 2019],
+    years: [2015, 2019, 2023],
     notes: "EMFF",
-    times: ["89:36", "89:04"]
+    times: ["89:36", "89:04", "89:02"]
   },
   {
     name: "Rob Tulloh",
@@ -878,9 +878,9 @@ window.members = [
   },
   {
     name: "Misha Heller",
-    years: [2019],
+    years: [2019, 2023],
     notes: "EMFF",
-    times: ["89:04"]
+    times: ["89:04", "89:03"]
   },
   {
     name: "Chet Buell",

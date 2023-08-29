@@ -1341,5 +1341,25 @@ window.members = [
     country: "ie",
     years: [2023],
     times: ["89:57"]
+  },
+  {
+    name: "Clémence Legrand",
+    country: "fr",
+    years: [2023],
+    times: ["89:01"]
+  },
+  {
+    name: "Mihir Sambhus",
+    country: "us",
+    years: [2023],
+    times: ["89:27"],
+    notes: "Tag M054"
+  },
+  {
+    name: "Rohit Pillai",
+    country: "us",
+    years: [2023],
+    times: ["89:16"],
+    notes: "Frame Number : M140"
   }
 ];

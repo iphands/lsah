@@ -1329,4 +1329,5 @@ window.members = [
     country: "ca",
     years: [2023],
     times: ["89:00"]
-  ];
+  }
+];

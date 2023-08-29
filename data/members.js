@@ -1242,7 +1242,7 @@ window.members = [
     name: "Oleshko Andrii",
     country: "ua",
     years: [2019],
-    times: ["89:19"],
+    times: ["89:19"]
   },
   {
     name: "Jon Pablo Gjekstad",
@@ -1256,72 +1256,77 @@ window.members = [
     country: "dk",
     years: [2015],
     times: ["89:38"],
-    notes: "F027",
+    notes: "F027"
   },
   {
     name: "Lucy Bufton",
     country: "gb",
     years: [2023],
-    times: ["89:47"],
+    times: ["89:47"]
   },
   {
     name: "Jan Olov Jansson",
     country: "se",
     years: [2007],
-    times: ["89:21"],
+    times: ["89:21"]
   },
   {
     name: "Sampsa Puikkonen",
     country: "fi",
     years: [2023],
-    times: ["89:16"],
+    times: ["89:16"]
   },
   {
     name: "Otso Lonka",
     country: "fi",
     years: [2023],
-    times: ["89:03"],
+    times: ["89:03"]
   },
   {
     name: "Antti Hämäläinen",
     country: "fi",
     years: [2023],
-    times: ["89:16"],
+    times: ["89:16"]
   },
   {
     name: "Mika Härmä",
     country: "fi",
     years: [2023],
-    times: ["89:24"],
+    times: ["89:24"]
   },
   {
     name: "Charlie Martin",
     country: "us",
     years: [2023],
-    times: ["89:03"],
+    times: ["89:03"]
   },
   {
     name: "Jose Blanco",
     country: "us",
     years: [2023],
-    times: ["89:23"],
+    times: ["89:23"]
   },
   {
     name: "Greg Kline",
     country: "us",
     years: [2023],
-    times: ["89:12"],
+    times: ["89:12"]
   },
   {
     name: "Ken Lanteigne",
     country: "us",
     years: [2023],
-    times: ["88:59"],
+    times: ["88:59"]
   },
   {
     name: "Tatu Edelmann",
     country: "fi",
     years: [2023],
-    times: ["89:24"],
-  }
-];
+    times: ["89:24"]
+  },
+  {
+    name: "Noah Trotman",
+    country: "ca",
+    years: [2023],
+    times: ["89:00"]
+  ];

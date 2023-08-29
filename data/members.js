@@ -1329,5 +1329,17 @@ window.members = [
     country: "ca",
     years: [2023],
     times: ["89:00"]
+  },
+  {
+    name: "Steffen Bräker",
+    country: "de",
+    years: [2023],
+    times: ["89:05"]
+  },
+  {
+    name: "Niall Diamond",
+    country: "ie",
+    years: [2023],
+    times: ["89:57"]
   }
 ];

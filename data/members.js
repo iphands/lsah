@@ -1361,5 +1361,19 @@ window.members = [
     years: [2023],
     times: ["89:16"],
     notes: "Frame Number : M140"
+  },
+  {
+    name: "Nitin Shinde",
+    country: "us",
+    years: [2023],
+    times: ["89:29"],
+    notes: "M205"
+  },
+  {
+    name: "Suryanarayanan Rajagopalan",
+    country: "us",
+    years: [2023],
+    times: ["89:02"],
+    notes: "M150"
   }
 ];

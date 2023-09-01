@@ -1390,7 +1390,7 @@ window.members = [
   },
   {
     name: "Phil Stanley",
-    country: "uk",
+    country: "gb",
     years: [2023],
     times: ["88:58"],
     notes: "Completed fixed gear"

@@ -1375,5 +1375,31 @@ window.members = [
     years: [2023],
     times: ["89:02"],
     notes: "M150"
+  },
+  {
+    name: "Per Thue Hansen",
+    country: "dk",
+    years: [2023],
+    times: ["89:02"],
+  },
+  {
+    name: "Jack Nicholson",
+    country: "us",
+    years: [2023],
+    times: ["88:57"]
+  },
+  {
+    name: "Phil Stanley",
+    country: "uk",
+    years: [2023],
+    times: ["88:58"],
+    notes: "Completed fixed gear"
+  },
+  {
+    name: "Dylan Eberle",
+    country: "us",
+    years: [2023],
+    times: ["89:47"],
+    notes: "U087"
   }
 ];

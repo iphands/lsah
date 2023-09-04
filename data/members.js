@@ -1401,5 +1401,18 @@ window.members = [
     years: [2023],
     times: ["89:47"],
     notes: "U087"
+  },
+  {
+    name: "Doug Kirby",
+    country: "us",
+    years: [2011],
+    times: ["89:29"],
+    notes: "I rode with Adrian in NC",
+  },
+  {
+    name: "Chris Ngo",
+    country: "us",
+    years: [2011],
+    times: ["89:06"]
   }
 ];

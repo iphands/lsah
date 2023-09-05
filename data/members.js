@@ -855,8 +855,8 @@ window.members = [
   },
   {
     name: "Stacy Kline",
-    years: [2019],
-    times: ["89:15"],
+    years: [2019, 2023],
+    times: ["89:15", "89:12"],
     notes: "My rider number for 2019 is J223! My husband Greg and I were delighted to meet Adrian's son Ian and his family at PBP this year!"
   },
   {

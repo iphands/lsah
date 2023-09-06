@@ -1414,5 +1414,24 @@ window.members = [
     country: "us",
     years: [2023],
     times: ["89:06"]
+  },
+  {
+    name: "Rebecca Clark",
+    country: "us",
+    years: [2023],
+    times: ["89:27"],
+    notes: "It is with great gratitude that I join the ranks of the Society at last.",
+  },
+  {
+    name: "Natalia Yakunina",
+    country: "ru",
+    years: [2023],
+    times: ["89:07"],
+  },
+  {
+    name: "John Peltier",
+    country: "us",
+    years: [2023],
+    times: ["89:28"],
   }
 ];

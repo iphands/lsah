@@ -67,20 +67,22 @@
 
     prepopulateMembers();
 
-    function load() {
+    function load(how) {
       once = false;
       init();
       $scope.$digest();
-      console.log("Loaded members");
+      console.log(`Loaded members (${how})`);
     }
 
     document.addEventListener("scroll", function () {
       if (once && jq("#members").is(":in-viewport")) {
-	load();
+	load("in_view");
       }
     });
 
-    window.setTimeout(load, 1000);
+    window.setTimeout(() => {
+      load("timer");
+    }, 1000);
   });
 }(window.jQuery, window._));
 

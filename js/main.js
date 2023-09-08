@@ -21,6 +21,7 @@
     }
 
     function init () {
+      console.log("IN INIT");
       let number = 1;
       const countries = {};
 

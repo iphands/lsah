@@ -33,14 +33,8 @@
         item.count = item.numberHack || number;
         item.country = country;
         item.countryFull = window.countries[country];
-
-	try {
-          item.years = item.years.join(", ");
-          item.times = item.times.join(", ");
-	} catch (e) {
-	  console.log(item);
-	  console.log(e);
-	}
+        item.years = item.years.join(", ");
+        item.times = item.times.join(", ");
 
         if (!item.numberHack) {
           number += 1;

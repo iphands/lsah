@@ -74,6 +74,14 @@
                 $scope.$digest();
             }
         });
+
+      window.setTimeout(() => {
+	if (once && jq("#members").is(":in-viewport")) {
+          once = false;
+          init();
+          $scope.$digest();
+        }
+      }, 1000);
     });
 }(window.jQuery, window._));
 

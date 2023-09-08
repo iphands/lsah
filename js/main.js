@@ -88,7 +88,9 @@
     });
 
     window.setTimeout(() => {
-      load("timer");
+      if (once) {
+	load("timer");
+      }
     }, 1000);
   });
 }(window.jQuery, window._));

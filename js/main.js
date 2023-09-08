@@ -37,6 +37,7 @@
           item.years = item.years.join(", ");
           item.times = item.times.join(", ");
 	} catch (e) {
+	  console.log(item);
 	  console.log(e);
 	}
 

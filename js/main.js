@@ -67,21 +67,20 @@
 
     prepopulateMembers();
 
+    function load() {
+      once = false;
+      init();
+      $scope.$digest();
+      console.log("Loaded members");
+    }
+
     document.addEventListener("scroll", function () {
       if (once && jq("#members").is(":in-viewport")) {
-        once = false;
-        init();
-        $scope.$digest();
+	load();
       }
     });
 
-    window.setTimeout(() => {
-      if (once && jq("#members").is(":in-viewport")) {
-        once = false;
-        init();
-        $scope.$digest();
-      }
-    }, 1000);
+    window.setTimeout(load, 1000);
   });
 }(window.jQuery, window._));
 

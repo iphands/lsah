@@ -478,8 +478,8 @@ window.members = [
   },
   {
     name: "Jeff Newberry",
-    years: [2015, 2019],
-    times: ["89:08", "89:43"]
+    years: [2015, 2019, 2023],
+    times: ["89:08", "89:43", "89:11"]
   },
   {
     name: "Jenny Oh Hatfield",
@@ -1433,5 +1433,31 @@ window.members = [
     country: "us",
     years: [2023],
     times: ["89:28"],
+  },
+  {
+    name: "Nigel Calladine",
+    country: "uk",
+    years: [2023],
+    times: ["89:02"],
+  },
+  {
+    name: "Adrian Stingaciu",
+    country: "ro",
+    years: [2023],
+    times: ["89:11"],
+    notes: "U123 Fixed Gear"
+  },
+  {
+    name: "Joshua Haley",
+    country: "us",
+    years: [2023],
+    times: ["88:57"],
+    notes: "Happy to confuse the finish line and a pub!",
+  },
+  {
+    name: "Pascal Ledru",
+    country: "us",
+    years: [2023],
+    times: ["88:57"],
   }
 ];

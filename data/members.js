@@ -1436,7 +1436,7 @@ window.members = [
   },
   {
     name: "Nigel Calladine",
-    country: "uk",
+    country: "gb",
     years: [2023],
     times: ["89:02"],
   },
@@ -1459,5 +1459,12 @@ window.members = [
     country: "us",
     years: [2023],
     times: ["88:57"],
+  },
+  {
+    name: "Michael Turek",
+    country: "us",
+    years: [2023],
+    times: ["88:57"],
+    notes: "A natural finish (didn’t leave course and return)",
   }
 ];

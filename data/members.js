@@ -1466,5 +1466,11 @@ window.members = [
     years: [2023],
     times: ["88:57"],
     notes: "A natural finish (didn’t leave course and return)",
+  },
+  {
+    name: "Jakob Gollwitzer",
+    country: "de",
+    years: [2023],
+    times: ["89:20"],
   }
 ];

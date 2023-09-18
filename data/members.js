@@ -1472,5 +1472,17 @@ window.members = [
     country: "de",
     years: [2023],
     times: ["89:20"],
+  },
+  {
+    name: "Simon Maddison",
+    country: "au",
+    years: [2019],
+    times: ["89:32"],
+  },
+  {
+    name: "Bob Grossman",
+    country: "ca",
+    years: [2023],
+    times: ["89:53"],
   }
 ];

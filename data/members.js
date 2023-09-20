@@ -730,8 +730,8 @@ window.members = [
   },
   {
     name: "Dan Driscoll",
-    years: [2015],
-    times: ["89:04"]
+    years: [2015, 2023],
+    times: ["89:04", "89:15"]
   },
   {
     name: "Cynthia Van Der Wiele",
@@ -1484,5 +1484,31 @@ window.members = [
     country: "ca",
     years: [2023],
     times: ["89:53"],
+  },
+  {
+    name: "Pam Wright",
+    country: "us",
+    years: [2023],
+    times: ["89:05"],
+  },
+  {
+    name: "Ashish Saini",
+    country: "in",
+    years: [2023],
+    times: ["89:37"],
+  },
+  {
+    name: "Grant McAlister",
+    country: "us",
+    years: [2023],
+    times: ["89:10"],
+    notes: "AD = Best PBP",
+  },
+  {
+    name: "Allen Morgan",
+    country: "gb",
+    years: [2023],
+    times: ["89:10"],
+    notes: "Very very happy to be included in this list. I started the season with very little fitness and rode the SR series but little else. Riding like you would fail from before 400k is a blast.  Thoroughly recommend.",
   }
 ];

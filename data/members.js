@@ -1510,5 +1510,12 @@ window.members = [
     years: [2023],
     times: ["89:10"],
     notes: "Very very happy to be included in this list. I started the season with very little fitness and rode the SR series but little else. Riding like you would fail from before 400k is a blast.  Thoroughly recommend.",
+  },
+  {
+    name: "Ken Shoemaker",
+    country: "us",
+    years: [2023],
+    times: ["89:05"],
+    notes: "I am humbled to have finally met the criteria to be included in this August's society",
   }
 ];

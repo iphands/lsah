@@ -504,8 +504,8 @@ window.members = [
   },
   {
     name: "Rob Tulloh",
-    years: [2015],
-    times: ["89:04"]
+    years: [2015, 2023],
+    times: ["89:04", "89:09"]
   },
   {
     name: "Kenneth Herbert",

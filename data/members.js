@@ -1517,5 +1517,11 @@ window.members = [
     years: [2023],
     times: ["89:05"],
     notes: "I am humbled to have finally met the criteria to be included in this August's society",
+  },
+  {
+    name: "Dan Colvin",
+    country: "us",
+    years: [2023],
+    times: ["89:20:08"],
   }
 ];

@@ -1522,6 +1522,12 @@ window.members = [
     name: "Dan Colvin",
     country: "us",
     years: [2023],
-    times: ["89:20:08"],
+    times: ["89:20"],
+  },
+  {
+    name: "Mark Brogan",
+    country: "us",
+    years: [2023],
+    times: ["89:05"],
   }
 ];

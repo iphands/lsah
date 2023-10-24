@@ -619,8 +619,8 @@ window.members = [
   },
   {
     name: "Paul Foley",
-    years: [2015],
-    times: ["89:12"]
+    years: [2015, 2023],
+    times: ["89:12", "88:58"]
   },
   {
     name: "Simon Palmer",

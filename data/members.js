@@ -1529,7 +1529,7 @@ window.members = [
     country: "us",
     years: [2023],
     times: ["89:05"],
-  }
+  },
   {
     name: "Cesar Augusto Dosso",
     country: "br",

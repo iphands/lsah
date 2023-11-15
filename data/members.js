@@ -1530,4 +1530,11 @@ window.members = [
     years: [2023],
     times: ["89:05"],
   }
+  {
+    name: "Cesar Augusto Dosso",
+    country: "br",
+    years: [2023],
+    times: ["89:05"],
+    notes: "G-167  Strava: https://www.strava.com/activities/9712620378",
+  },
 ];

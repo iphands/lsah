@@ -19,6 +19,7 @@ window.countries = {
     no: "Norway",
     nz: "New Zeland",
     pr: "Puerto Rico",
+    ro: "Romania",
     ru: "Russia",
     se: "Sweden",
     th: "Thailand",

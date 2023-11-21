@@ -1537,4 +1537,16 @@ window.members = [
     times: ["89:05"],
     notes: "G-167  Strava: https://www.strava.com/activities/9712620378",
   },
+  {
+    name: "Dave Crampton",
+    country: "gb",
+    years: [2023],
+    times: ["89:16"],
+  },
+  {
+    name: "Arnaud Rousse",
+    country: "fr",
+    years: [2023],
+    times: ["89:03"],
+  }
 ];

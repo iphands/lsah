@@ -493,8 +493,8 @@ window.members = [
   },
   {
     name: "Kitty Goursolle",
-    years: [2015],
-    times: ["88:57"]
+    years: [2015, 2023],
+    times: ["88:57", "88:58"]
   },
   {
     name: "Luke Heller",
@@ -1548,5 +1548,17 @@ window.members = [
     country: "fr",
     years: [2023],
     times: ["89:03"],
+  }
+  {
+    name: "Alasdair Worsley",
+    country: "gb",
+    years: [1991],
+    times: ["89:00"],
+  },
+  {
+    name: "Jacques Bilinski",
+    country: "ca",
+    years: [2019, 2023],
+    times: ["89:23", "89:15"],
   }
 ];

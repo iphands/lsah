@@ -1548,7 +1548,7 @@ window.members = [
     country: "fr",
     years: [2023],
     times: ["89:03"],
-  }
+  },
   {
     name: "Alasdair Worsley",
     country: "gb",

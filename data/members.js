@@ -1560,5 +1560,23 @@ window.members = [
     country: "ca",
     years: [2019, 2023],
     times: ["89:23", "89:15"],
-  }
+  },
+  {
+    name: "Bogdan-Alexandru Ceapraga",
+    country: "ro",
+    years: [2019],
+    times: ["89:10"],
+  },
+  {
+    name: "Richard  Avenell",
+    country: "gb",
+    years: [2023],
+    times: ["89:04"],
+  },
+  {
+    name: "Michael Bakker",
+    country: "nl",
+    years: [2023],
+    times: ["89:48"],
+  },
 ];

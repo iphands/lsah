@@ -1579,4 +1579,11 @@ window.members = [
     years: [2023],
     times: ["89:48"],
   },
+  {
+    name: "Dave Knight",
+    country: "gb",
+    years: [2023],
+    times: ["89:01"],
+    notes: "Rider number J154",
+  },
 ];

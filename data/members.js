@@ -1580,6 +1580,12 @@ window.members = [
     times: ["89:48"],
   },
   {
+    name: "Jonah Gray",
+    country: "us",
+    years: [2023],
+    times: ["89:46"],
+  },
+  {
     name: "Dave Knight",
     country: "gb",
     years: [2023],

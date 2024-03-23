@@ -1586,4 +1586,10 @@ window.members = [
     times: ["89:01"],
     notes: "Rider number J154",
   },
+  {
+    name: "Olga Huber",
+    country: "us",
+    years: [2023],
+    times: ["89:28"],
+  },
 ];

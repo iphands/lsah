@@ -1598,4 +1598,10 @@ window.members = [
     years: [2023],
     times: ["89:28"],
   },
+  {
+    name: "Takahiro Noguchi",
+    country: "us",
+    years: [2023],
+    times: ["89:01"],
+  },
 ];

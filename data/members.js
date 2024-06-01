@@ -1604,4 +1604,10 @@ window.members = [
     years: [2023],
     times: ["89:01"],
   },
+  {
+    name: "Detlef Peckmann",
+    country: "de",
+    years: [2023],
+    times: ["87:16"],
+  },
 ];

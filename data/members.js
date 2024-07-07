@@ -1610,4 +1610,11 @@ window.members = [
     years: [2023],
     times: ["87:16"],
   },
+  {
+    name: "Pierre Moreels",
+    country: "us",
+    years: [2015],
+    times: ["88:57"],
+    notes: "By coincidence, I noticed I finished PBP2015 in LSAH time !",
+  },
 ];

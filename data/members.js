@@ -1617,4 +1617,10 @@ window.members = [
     times: ["88:57"],
     notes: "By coincidence, I noticed I finished PBP2015 in LSAH time !",
   },
+  {
+    name: "Petra Kanvall",
+    country: "se",
+    years: [2023],
+    times: ["89:29"],
+  },
 ];

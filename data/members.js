@@ -1623,4 +1623,10 @@ window.members = [
     years: [2023],
     times: ["89:29"],
   },
+  {
+    name: "Brenda Maxwell-Wiechers",
+    country: "ca",
+    years: [2023],
+    times: ["88:59"],
+  },
 ];

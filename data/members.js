@@ -1629,4 +1629,10 @@ window.members = [
     years: [2023],
     times: ["88:59"],
   },
+  {
+    name: "Marcus Kreutler",
+    country: "de",
+    years: [2023],
+    times: ["89:01"],
+  }
 ];

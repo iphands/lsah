@@ -1634,5 +1634,12 @@ window.members = [
     country: "de",
     years: [2023],
     times: ["89:01"],
-  }
+  },
+  {
+    name: "Shoji Hiramatsu",
+    country: "jp",
+    years: [2023],
+    times: ["89:23"],
+    notes: "G028",
+  },
 ];

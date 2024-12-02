@@ -1642,4 +1642,10 @@ window.members = [
     times: ["89:23"],
     notes: "G028",
   },
+  {
+    name: "Francis Victoria",
+    country: "ph",
+    years: [2023],
+    times: ["89:24"],
+  },
 ];

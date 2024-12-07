@@ -1648,4 +1648,10 @@ window.members = [
     years: [2023],
     times: ["89:24"],
   },
+  {
+    name: "Dan Diehn",
+    country: "us",
+    years: [2023],
+    times: ["89:04"],
+  },
 ];

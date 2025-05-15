@@ -1654,4 +1654,10 @@ window.members = [
     years: [2023],
     times: ["89:04"],
   },
+  {
+    name: "Jungmin Park",
+    country: "kr",
+    years: [2023],
+    times: ["88:55"],
+  },
 ];

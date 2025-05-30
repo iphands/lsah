@@ -1660,4 +1660,11 @@ window.members = [
     years: [2023],
     times: ["88:55"],
   },
+  {
+    name: "Seokyeon KIM",
+    country: "kr",
+    years: [2023],
+    times: ["88:55"],
+    notes: "I'm very honored to be finished at the same time as Adrian",
+  },
 ];

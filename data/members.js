@@ -1661,10 +1661,17 @@ window.members = [
     times: ["88:55"],
   },
   {
-    name: "Seokyeon KIM",
+    name: "Seokyeon Kim",
     country: "kr",
     years: [2023],
     times: ["88:55"],
     notes: "I'm very honored to be finished at the same time as Adrian",
+  },
+  {
+    name: "Terashima Takayuki",
+    country: "jp",
+    years: [2023],
+    times: ["89:34"],
+    notes: "S009",
   },
 ];
